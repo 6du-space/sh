@@ -1,0 +1,6 @@
+file:
+  md/.*\.md:
+    - github.com/6du-plugin/md
+path:
+  (md|pug)/.*\.(md|pug):
+    - github.com/6du-plugin/url

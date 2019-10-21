@@ -1,0 +1,38 @@
+{
+  "name": "6du",
+  "version": "0.0.5",
+  "description": "Blog framework for next generation Internet",
+  "main": "index.js",
+  "repository": "git@github.com:6du-space/6du.git",
+  "author": "6du",
+  "license": "MPL-2.0",
+  "bin": {
+    "6du": "6du.js"
+  },
+  "engines": {
+    "node": ">=12.6.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "caller-id": "^0.1.0",
+    "chalk": "^2.4.2",
+    "cli-table-chinese": "^0.0.1",
+    "favicons": "^5.4.1",
+    "fs-extra": "^8.1.0",
+    "inquirer": "^7.0.0",
+    "isomorphic-git": "^0.67.2",
+    "js-yaml": "^3.13.1",
+    "klaw": "^3.0.0",
+    "koa": "^2.8.1",
+    "koa-static": "^5.0.0",
+    "livescript": "^1.6.0",
+    "livescript-system": "^1.0.1",
+    "livescript-transform-implicit-async": "^1.1.0",
+    "msgpack5": "^4.2.1",
+    "ora": "^3.4.0",
+    "pug": "^2.0.4",
+    "terser": "^4.2.1",
+    "urlsafe-base64": "^1.0.0",
+    "yargs": "^14.0.0"
+  }
+}
